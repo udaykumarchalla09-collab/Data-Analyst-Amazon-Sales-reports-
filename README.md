@@ -1,2 +1,9 @@
-# Data-Analyst-Amazon-Sales-reports-
-This project presents an end -to- end   Amazon sales dashboards using power BI and SQL.The Objective is to Analyze production Of sales and Business trends and build an iteractive dashboards the helps undershand revenue ,order, and production wise  Sales.
+Project Overview
+The Amazon sales dashboards project focuses on transforming row data into meaningful insights using data cleaning, SQL analyst, and visualization techniques.
+•	The dashboards highlights:
+•	Sales performance across different subcategory
+•	Revenue tends over time 
+•	Customer order patterns
+•	Best and worst performing categories and subcategories 
+This project demonstrates real-world data analyst workflow:
+Raw Data → Data Cleaning → SQL Analysis → Visualization
