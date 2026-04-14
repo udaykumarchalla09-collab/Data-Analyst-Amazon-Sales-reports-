@@ -4,48 +4,48 @@
 ## Project Overview 
 
 The Amazon sales dashboards project focuses on transforming row data into meaningful insights using data cleaning, SQL analyst, and visualization techniques.
-•	The dashboards highlights:
-•	Sales performance across different subcategory
-•	Revenue tends over time 
-•	Customer order patterns
-•	Best and worst performing categories and subcategories 
-This project demonstrates real-world data analyst workflow:
+ •	The dashboards highlights:
+ •	Sales performance across different subcategory
+ •	Revenue tends over time 
+ •	Customer order patterns
+ •	Best and worst performing categories and subcategories 
+ This project demonstrates real-world data analyst workflow:
 ## Raw Data → Data Cleaning → SQL Analysis → Visualization
 
 ## Business Questions Solved
-•	What is the Total Quantity?
-•	What is Total discount?
-•	What is Total profits?
-•	What is Total Ship cost?
-•	What is Total Sales?
-•	What is Most Popular categories 
-•	What are the top 5 and bottom 5 categories  
+# •	What is the Total Quantity?
+# •	What is Total discount?
+# •	What is Total profits?
+# •	What is Total Ship cost?
+# •	What is Total Sales?
+# •	What is Most Popular categories 
+# •	What are the top 5 and bottom 5 categories  
 
 ## Dataset 
 The dataset contains Amazon Sales transactions details with columns such as :
-•	Row ID
-•	Order ID
-•	Order Date
-•	Ship date 
-•	Ship Mode 
-•	Customer id 
-•	Customer name 
-•	Segments 
-•	Postal code 
-•	City 
-•	State 
-•	Country 
-•	Region
-•	Category 
-•	Product name 
-•	subcategory 
-•	sales, Quantity, Discount, profit, Shipping cost 
+# •	Row ID
+# •	Order ID
+# •	Order Date
+# •	Ship date 
+# •	Ship Mode 
+# •	Customer id 
+# •	Customer name 
+# •	Segments 
+# •	Postal code 
+# •	City 
+# •	State 
+# •	Country 
+# •	Region
+# •	Category 
+# •	Product name 
+# •	subcategory 
+# •	sales, Quantity, Discount, profit, Shipping cost 
 
 ## Files included:
-•	Amazon_sales_data_raw.csv → Original dataset
-•	Amazon_sales_data_clean.csv → Cleaned dataset used for analysis
-•	Amazon_Sales_Analysis_Dashboard.pbix → Power BI dashboard file
-•	SQL-QUERIES.docx → SQL queries used for analysis
+# •	Amazon_sales_data_raw.csv → Original dataset
+# •	Amazon_sales_data_clean.csv → Cleaned dataset used for analysis
+# •	Amazon_Sales_Analysis_Dashboard.pbix → Power BI dashboard file
+# •	SQL-QUERIES.docx → SQL queries used for analysis
 
 # Data cleaning process
 •	Data was cleaned using Power Query in Power BI:
