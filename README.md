@@ -11,3 +11,12 @@ The Amazon sales dashboards project focuses on transforming row data into meanin
 •	Best and worst performing categories and subcategories 
 This project demonstrates real-world data analyst workflow:
 ## Raw Data → Data Cleaning → SQL Analysis → Visualization
+
+## Business Questions Solved
+•	What is the Total Quantity?
+•	What is Total discount?
+•	What is Total profits?
+•	What is Total Ship cost?
+•	What is Total Sales?
+•	What is Most Popular categories 
+•	What are the top 5 and bottom 5 categories  
