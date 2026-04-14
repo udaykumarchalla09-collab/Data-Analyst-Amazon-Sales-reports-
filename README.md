@@ -21,7 +21,7 @@ This project demonstrates real-world data analyst workflow:
 •	What is Most Popular categories 
 •	What are the top 5 and bottom 5 categories  
 
-Dataset 
+## Dataset 
 The dataset contains Amazon Sales transactions details with columns such as :
 •	Row ID
 •	Order ID
@@ -40,12 +40,13 @@ The dataset contains Amazon Sales transactions details with columns such as :
 •	Product name 
 •	subcategory 
 •	sales, Quantity, Discount, profit, Shipping cost 
-Files included:
+
+## Files included:
 Amazon_sales_data_raw.csv → Original dataset
 Amazon_sales_data_clean.csv → Cleaned dataset used for analysis
 Amazon_Sales_Analysis_Dashboard.pbix → Power BI dashboard file
 SQL-QUERIES.docx → SQL queries used for analysis
-Data cleaning process
+# Data cleaning process
 •	Data was cleaned using Power Query in Power BI:
 •	Removed null values
 •	Corrected data types
