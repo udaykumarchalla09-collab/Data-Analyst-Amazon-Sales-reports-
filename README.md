@@ -42,10 +42,11 @@ The dataset contains Amazon Sales transactions details with columns such as :
 •	sales, Quantity, Discount, profit, Shipping cost 
 
 ## Files included:
-Amazon_sales_data_raw.csv → Original dataset
-Amazon_sales_data_clean.csv → Cleaned dataset used for analysis
-Amazon_Sales_Analysis_Dashboard.pbix → Power BI dashboard file
-SQL-QUERIES.docx → SQL queries used for analysis
+•	Amazon_sales_data_raw.csv → Original dataset
+•	Amazon_sales_data_clean.csv → Cleaned dataset used for analysis
+•	Amazon_Sales_Analysis_Dashboard.pbix → Power BI dashboard file
+•	SQL-QUERIES.docx → SQL queries used for analysis
+
 # Data cleaning process
 •	Data was cleaned using Power Query in Power BI:
 •	Removed null values
